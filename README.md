@@ -19,7 +19,7 @@ Contributing to open-source is easy.
   - Improving the documentation
 - Push your work and Create a Pull Request
 
-[Click here for detailed explanation](/Contribute.md)
+[Click here for detailed explanation](/Contributing.md)
 
 # Hacktoberfest-2020
 This repository is taking part in Hacktoberfest 2020, you will find more information about this event [here](https://hacktoberfest.digitalocean.com/)
