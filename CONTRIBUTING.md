@@ -22,6 +22,7 @@ Add them to a new section inside [ReadMe](/README.md)
 
 - [How to Start with Hacktoberfest](https://hacktoberfest.digitalocean.com/details#beginners)
 - [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+- [Why do we Contribute to Open Source Software](https://opensource.com/article/19/11/why-contribute-open-source-software)
 - [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 - [GitHub Help](https://help.github.com)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
