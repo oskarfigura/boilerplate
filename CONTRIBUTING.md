@@ -27,3 +27,5 @@ Add them to a new section inside [ReadMe](/README.md)
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 - [Your first time with git and github](https://kbroman.org/github_tutorial/pages/first_time.html)
 - [Saas Guide](https://sass-lang.com/guide)
+- [Sass Techniques from the Trenches](https://css-tricks.com/sass-techniques-from-the-trenches/)
+
